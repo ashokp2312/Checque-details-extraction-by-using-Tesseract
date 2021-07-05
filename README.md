@@ -1,4 +1,4 @@
-# Checque-details-extraction-by-using-Tesseract
+# Cheque-details-extraction-by-using-Tesseract
 
 In this project, the details on the Cheque are extracted and returned in the JSON format. We use Tesseract OCR to convert the image to text. 
 One must download tesseract to use this program. There are different types of cheques. In this project I have written two different codes persnal.py and cashier.py for different types of cheques.
