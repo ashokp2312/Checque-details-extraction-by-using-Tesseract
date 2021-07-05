@@ -1,0 +1,7 @@
+  '''
+  imagefile = request.files['imagefile']
+  image_path = './' + imagefile.filename
+  imagefile.save(image_path)
+  chk = cv2.imread(image_path)
+  #chk = cv2.imread(a1)
+  '''
